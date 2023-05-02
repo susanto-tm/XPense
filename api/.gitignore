@@ -1,0 +1,13 @@
+# Executables
+api
+
+.env
+secrets
+
+# IDE
+.idea
+.fleet
+.vscode
+
+# Service account
+xpense-*.json
